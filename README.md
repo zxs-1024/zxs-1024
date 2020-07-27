@@ -11,10 +11,10 @@
 
 [![hao.zhang's github stats](https://github-readme-stats.vercel.app/api?username=zhanghao-zhoushan)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/KieSun/react-interpretation">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=zhanghao-zhoushan&repo=bing" />
+<a href="https://github.com/zhanghao-zhoushan/bing-collect">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=zhanghao-zhoushan&repo=bing-collect" />
 </a>
 
-<a href="https://github.com/KieSun/Dream">
+<a href="https://github.com/zhanghao-zhoushan/create-project-template">
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=zhanghao-zhoushan&repo=create-project-template" />
 </a>
