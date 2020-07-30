@@ -18,11 +18,3 @@
 <a href="https://github.com/zhanghao-zhoushan/create-project-template">
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=zhanghao-zhoushan&repo=create-project-template" />
 </a>
-
-<a href="https://github.com/zhanghao-zhoushan/vue-helpers">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=zhanghao-zhoushan&repo=vue-helpers" />
-</a>
-
-<a href="https://github.com/zhanghao-zhoushan/render-table">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=zhanghao-zhoushan&repo=render-table" />
-</a>
