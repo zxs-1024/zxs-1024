@@ -11,10 +11,10 @@
 
 [![hao.zhang's github stats](https://github-readme-stats.vercel.app/api?username=zhanghao-zhoushan)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/zhanghao-zhoushan/blog">
+<!-- <a href="https://github.com/zhanghao-zhoushan/blog">
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=zhanghao-zhoushan&repo=blog" />
 </a>
 
 <a href="https://github.com/zhanghao-zhoushan/LeetCode-Notes">
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=zhanghao-zhoushan&repo=LeetCode-Notes" />
-</a>
+</a> -->
